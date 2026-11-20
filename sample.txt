@@ -1,0 +1,8 @@
+FILE PROTECTION UTILITY
+
+This is a confidential test file.
+
+Username: TestUser
+Project: Revora Internship
+
+This file will be encrypted using AES-256.
